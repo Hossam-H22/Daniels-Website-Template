@@ -2,7 +2,7 @@
 
 <br>
 
-> https://dragon-h22.github.io/Daniels-Website/
+> https://dragon-h22.github.io/Daniels-Website-Template/
 
 <br>
 
