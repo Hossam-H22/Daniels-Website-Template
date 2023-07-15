@@ -1,13 +1,13 @@
 # Daniels-Website
 
-<br>
+<br><br>
 
 
 > ## Description
 
 This is a portfolio for a fictional person called Daniels, who works as a designer and developer. *<a href="https://dragon-h22.github.io/Daniels-Website-Template/" target="_blank"> Check it now⚡</a>*
 
-<br>
+<br><br><br>
 
 > ## Developed By
 - HTML
@@ -15,7 +15,7 @@ This is a portfolio for a fictional person called Daniels, who works as a design
 - SCSS
 - Bootstrap
 
-<br><br>
+<br><br><br>
 
 
 > ## Sample Photos
